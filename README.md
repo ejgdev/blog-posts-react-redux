@@ -4,7 +4,7 @@ This is a Blog Posts app, is made with ReactJS and Redux.
 
 ![](Post-React-Redux1.gif)
 
-You can see this alive, [Click here](https://frozen-oasis-51444.herokuapp.com/).
+You can see this alive, [Click here](http://frozen-oasis-51444.herokuapp.com/).
 
 This Project is part of the Udemy course - Modern React with Redux by Stephen Grider
 
