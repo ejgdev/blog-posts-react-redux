@@ -1,4 +1,4 @@
-# Youtube Services with ReactJS.
+# Blog Posts with ReactJS and Redux.
 
 This is a Blog Posts app, is made with ReactJS and Redux.
 
