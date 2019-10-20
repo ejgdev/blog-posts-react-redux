@@ -9,12 +9,12 @@ class PostsIndex extends Component {
     this.props.fetchPosts();
   }
 
-renderPosts() {
+  renderPosts() {
     return _.map(this.props.posts, (post) => {
       return (
         <li className="list-group-item" key={post.id}>
           <div className="card mb-4">
-            <img className="card-img-top" src="https://alexzerbach.com/wp-content/uploads/2015/05/blue-grey-love-letter.png" alt={post.title} />
+            <img className="card-img-top" src="https://i.pinimg.com/originals/7b/d4/df/7bd4dfa8483188087ccc066655ac2927.jpg" alt={post.title} />
             <div className="card-body">
               <h2 className="card-title">{post.title}</h2>
               <p className="card-text">{post.content}</p>
